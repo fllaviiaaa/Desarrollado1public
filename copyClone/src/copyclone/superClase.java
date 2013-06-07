@@ -8,6 +8,6 @@ package copyclone;
  *
  * @author tina
  */
-public class NewClass {
+public class superClase {
     
 }
